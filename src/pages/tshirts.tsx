@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import React from 'react'
-// https://www.youtube.com/watch?v=LxmXE7-Lh7w&list=PLu0W_9lII9agtWvR_TZdb_r0dNI8-lDwG&index=38
+// https://www.youtube.com/watch?v=sS-GyagLhJg&list=PLu0W_9lII9agtWvR_TZdb_r0dNI8-lDwG&index=42
 const tshirts: React.FC = () => {
   return (
     <div>
